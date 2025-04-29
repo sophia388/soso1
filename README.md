@@ -1,6 +1,3 @@
-Claro, Sophia! Aqui está um exemplo de perfil no GitHub usando Markdown, com as informações que você forneceu e um toque a mais para deixá-lo mais completo e atrativo:
-
-```markdown
 # Olá! 👋 Eu sou a Sophia
 
 🎓 Tenho 16 anos e atualmente estou cursando **Desenvolvimento de Sistemas**.  
@@ -25,6 +22,18 @@ Claro, Sophia! Aqui está um exemplo de perfil no GitHub usando Markdown, com as
 - ☑️ Criar meus primeiros repositórios de projetos pessoais
 - ☑️ Contribuir em projetos open-source
 - ☑️ Aprender `Python` e `Banco de Dados`
+
+## 💬 Contato
+
+- 📧 Email: seuemail@example.com *(substitua pelo seu e-mail real!)*
+- 💼 [LinkedIn](https://www.linkedin.com) *(adicione o link quando tiver)*
+
+---
+
+> "A melhor maneira de prever o futuro é criá-lo." — Peter Drucker
+
+Obrigado por visitar meu perfil! ⭐  
+Sinta-se à vontade para me acompanhar nessa jornada! 🚀
 
 ## 💬 Contato
 
